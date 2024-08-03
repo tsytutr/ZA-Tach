@@ -128,7 +128,7 @@ input:checked + label .description {
     display: flex;
     justify-content: center;
   
-    width: 57vw;
+  width: 104vw;
     margin: 0;
   }
 
